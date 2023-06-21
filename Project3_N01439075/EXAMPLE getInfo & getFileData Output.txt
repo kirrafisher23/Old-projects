@@ -1,0 +1,5 @@
+WorkOrder getInfo return String Example Format:
+	Employee Info: Employee Name: Bathow,Barbabas	Employee ID: E219851480-X	Time Clocked In: 10/22/2020 23:22	Customer Info: Customer Name: Dimitrijevic,Ashlie	Customer ID: C553291060-X	Account Number: 5602249978026585A	Created At: 10/21/2020 0:01	Ticket Id: T443674411-6 Workorder Info: 	Created At: 10/26/2020 16:18:35
+
+WorkOrder getFileData return String Example Format:
+	E219851480-X,Barbabas,Bathow,10/22/2020 23:22,C553291060-X,Ashlie,Dimitrijevic,T443674411-6,10/21/2020 0:01,10/26/2020 16:50:16

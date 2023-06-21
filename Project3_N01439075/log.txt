@@ -1,0 +1,5 @@
+07/24/22 17:22:23: Loading Employee Data
+07/24/22 17:22:23: Loading Ticket Data
+07/24/22 17:22:23: Creating Work Orders
+07/24/22 17:22:23: Writing Work Order Data to File
+07/24/22 17:22:23: Work Orders Created. Program Exiting
